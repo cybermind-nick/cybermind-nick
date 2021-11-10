@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicholas Ifeajia - @cybermind-nick
-- 👀 I’m interested in alogrithm design, computational science, graphics and distributed systems
+- 👀 I’m interested in alogrithm design, computational science, graphics, distributed systems and networking
 - 🌱 I’m currently learning PostgreSQL, OpenGL and Introductory ML
 - 💞️ I’m looking to collaborate on interesting projects at the intersection of distributed systems and algorithm design...
 - 📫 You can reach me through email -- nickifeajika@protonmail.com or nickifeajika@gmail.com
